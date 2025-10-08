@@ -1,1 +1,3 @@
-# ott-platform-landing-and-login-91229
+# Project Repository
+
+This is the initial README file for the project.
